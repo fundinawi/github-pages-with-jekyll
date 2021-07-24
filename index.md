@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Willkommenstitel"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Das ist der erste Text
