@@ -18,3 +18,6 @@ baseurl: /
 github_username:  fundinawi # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+navigation_pages:
+ - about.md
